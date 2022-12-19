@@ -52,7 +52,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "School of Data and Sciences (SDS) Pattern Recognition (PR) Carpentry Workshop"
+title: "School of Data and Sciences (SDS) Pattern Recognition (PR) Carpentry Workshop, Fall 2022"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
